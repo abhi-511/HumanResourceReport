@@ -4,8 +4,8 @@ It is a Human Resource Report using Power-BI.
 Here's a Data-Analysis project of products Human Resource using Power-BI.
 
 
-# Here's a screenshot of the DashBoard.
-<img src="https://github.com/abhi-511/HumanResourceReport/blob/main/SS/LandingPage.png" alt="alt text" height=200 width="350"/>       <img src="https://github.com/abhi-511/HumanResourceReport/blob/main/SS/Dashboard.png" alt="alt text" height=200 width="350"/>       <img src="https://github.com/abhi-511/HumanResourceReport/blob/main/SS/Breakdown.png" alt="alt text" height=200 width="350"/>       <img src="https://github.com/abhi-511/HumanResourceReport/blob/main/SS/SalaryAnalysis.png" alt="alt text" height=200 width="350"/>       <img src="https://github.com/abhi-511/HumanResourceReport/blob/main/SS/H&T.png" alt="alt text" height=200 width="350"/>
+# These are some Screenshot of Report.
+<img src="https://github.com/abhi-511/HumanResourceReport/blob/main/SS/LandingPage.png" alt="alt text" height=300 width="500"/>       <img src="https://github.com/abhi-511/HumanResourceReport/blob/main/SS/Dashboard.png" alt="alt text" height=300 width="500"/>       <img src="https://github.com/abhi-511/HumanResourceReport/blob/main/SS/Breakdown.png" alt="alt text" height=300 width="500"/>       <img src="https://github.com/abhi-511/HumanResourceReport/blob/main/SS/SalaryAnalysis.png" alt="alt text" height=300 width="500"/>       <img src="https://github.com/abhi-511/HumanResourceReport/blob/main/SS/H&T.png" alt="alt text" height=300 width="500"/>
 
 Please do ⭐ the repository, if you like this.😊
 
