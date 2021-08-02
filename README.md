@@ -1,7 +1,7 @@
 # HumanResourceReport
 It is a Human Resource Report using Power-BI.
 
-Here's a Data-Analysis project of products Human Resource using Power-BI.
+Here's a Data-Analysis project of products Human Resource using Power-BI. It has buttons to navigate between different page, like it has all pages button to go directly in all the pages from Landing Page and has Home button in each pages to directly move to the landing page from any page.
 
 
 # These are some Screenshot of Report.
